@@ -1,0 +1,432 @@
+# depslib dependency file v1.0
+1380240442 source:c:\users\lex\desktop\compilador\src\lexico.cpp
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+
+1382882946 e/Funciones.h"
+
+1380243101 c:\users\lex\desktop\compilador\include\lexico.h
+	<string>
+	<iostream>
+	<cctype>
+
+1380078362 
+
+1380078476 source:c:\users\lex\desktop\compilador\src\tablasimbolos.cpp
+	"../include/TablaSimbolos.h"
+
+1380078476 e/TablaSimbolos.h"
+
+1380078362 c:\users\lex\desktop\compilador\include\tablasimbolos.h
+	<string>
+	<iostream>
+
+1380247136 source:c:\users\lex\desktop\compilador\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/ArchivoIO.h"
+
+1385759851 rchivoIO.h"
+
+1380086620 c:\users\lex\desktop\compilador\include\funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+	"TablaSimbolos.h"
+
+1382883583 olos.h"
+
+1380500225 source:c:\users\lex\desktop\compilador\src\sintactico.cpp
+	"../include/Sintactico.h"
+
+1380245644 e/Sintactico.h"
+
+1380241294 c:\users\lex\desktop\compilador\include\sintactico.h
+	<iostream>
+	<string>
+	"../include/Lexico.h"
+
+1380241294 e/Lexico.h"
+
+1380078956 source:c:\users\lex\desktop\compilador - copia\src\lexico.cpp
+	"../include/Lexico.h"
+
+1380078928 c:\users\lex\desktop\compilador - copia\include\lexico.h
+	<string>
+	<iostream>
+	<cctype>
+
+1380078828 source:c:\users\lex\desktop\compilador - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/Funciones.h"
+
+1380078828 unciones.h"
+
+1380078800 c:\users\lex\desktop\compilador - copia\include\funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+	"TablaSimbolos.h"
+
+1380078362 c:\users\lex\desktop\compilador - copia\include\tablasimbolos.h
+	<string>
+	<iostream>
+
+1380078476 source:c:\users\lex\desktop\compilador - copia\src\tablasimbolos.cpp
+	"../include/TablaSimbolos.h"
+
+1380078885 source:c:\users\lex\desktop\compilador - copia\src\sintactico.cpp
+	"../include/Sintactico.h"
+
+1380078981 c:\users\lex\desktop\compilador - copia\include\sintactico.h
+	<iostream>
+	<string>
+
+1380167173 c:\users\lex\desktop\compilador\include\archivoio.h
+	<fstream>
+	<sstream>
+
+1380247136 source:/mnt/windows/Users/Lex/Desktop/Compilador/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/ArchivoIO.h"
+
+1380243101 /mnt/windows/Users/Lex/Desktop/Compilador/include/Lexico.h
+	<string>
+	<iostream>
+	<cctype>
+
+1380241294 /mnt/windows/Users/Lex/Desktop/Compilador/include/Sintactico.h
+	<iostream>
+	<string>
+	"../include/Lexico.h"
+
+1380167173 /mnt/windows/Users/Lex/Desktop/Compilador/include/ArchivoIO.h
+	<fstream>
+	<sstream>
+
+1380240442 source:/mnt/windows/Users/Lex/Desktop/Compilador/src/Lexico.cpp
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+
+1380086620 /mnt/windows/Users/Lex/Desktop/Compilador/include/Funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+	"TablaSimbolos.h"
+
+1380078362 /mnt/windows/Users/Lex/Desktop/Compilador/include/TablaSimbolos.h
+	<string>
+	<iostream>
+
+1380245644 source:/mnt/windows/Users/Lex/Desktop/Compilador/src/Sintactico.cpp
+	"../include/Sintactico.h"
+
+1380078476 source:/mnt/windows/Users/Lex/Desktop/Compilador/src/TablaSimbolos.cpp
+	"../include/TablaSimbolos.h"
+
+1382490612 source:c:\users\lex\desktop\compilador_teoria\src\lexico.cpp
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+
+1382491253 c:\users\lex\desktop\compilador_teoria\include\lexico.h
+	<string>
+	<iostream>
+	<cctype>
+
+1380086620 c:\users\lex\desktop\compilador_teoria\include\funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+	"TablaSimbolos.h"
+
+1380078362 c:\users\lex\desktop\compilador_teoria\include\tablasimbolos.h
+	<string>
+	<iostream>
+
+1380078476 source:c:\users\lex\desktop\compilador_teoria\src\tablasimbolos.cpp
+	"../include/TablaSimbolos.h"
+
+1382498520 source:c:\users\lex\desktop\compilador_teoria\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/ArchivoIO.h"
+
+1382494987 c:\users\lex\desktop\compilador_teoria\include\sintactico.h
+	<iostream>
+	<string>
+	"../include/Lexico.h"
+	<vector>
+
+1380167173 c:\users\lex\desktop\compilador_teoria\include\archivoio.h
+	<fstream>
+	<sstream>
+
+1382576219 source:c:\users\lex\desktop\compilador_teoria\src\sintactico.cpp
+	"../include/Sintactico.h"
+	<string>
+	<vector>
+
+1380078476 source:c:\users\lex\desktop\practica4\src\tablasimbolos.cpp
+	"../include/TablaSimbolos.h"
+
+1380078362 c:\users\lex\desktop\practica4\include\tablasimbolos.h
+	<string>
+	<iostream>
+
+1382842420 source:c:\users\lex\desktop\practica4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/ArchivoIO.h"
+
+1382582101 c:\users\lex\desktop\practica4\include\lexico.h
+	<string>
+	<iostream>
+	<cctype>
+
+1382842234 c:\users\lex\desktop\practica4\include\sintactico.h
+	<iostream>
+	<string>
+	"../include/Lexico.h"
+	<vector>
+
+1382841750 c:\users\lex\desktop\practica4\include\archivoio.h
+	<fstream>
+	<sstream>
+
+1382582115 source:c:\users\lex\desktop\practica4\src\lexico.cpp
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+
+1380086620 c:\users\lex\desktop\practica4\include\funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+	"TablaSimbolos.h"
+
+1382842248 source:c:\users\lex\desktop\practica4\src\sintactico.cpp
+	"../include/Sintactico.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<sstream>
+
+1382582115 source:c:\users\lex\desktop\compiladores\practica4\src\lexico.cpp
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+
+1382582101 c:\users\lex\desktop\compiladores\practica4\include\lexico.h
+	<string>
+	<iostream>
+	<cctype>
+
+1380086620 c:\users\lex\desktop\compiladores\practica4\include\funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+	"TablaSimbolos.h"
+
+1380078362 c:\users\lex\desktop\compiladores\practica4\include\tablasimbolos.h
+	<string>
+	<iostream>
+
+1382842927 source:c:\users\lex\desktop\compiladores\practica4\src\sintactico.cpp
+	"../include/Sintactico.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<sstream>
+
+1382842234 c:\users\lex\desktop\compiladores\practica4\include\sintactico.h
+	<iostream>
+	<string>
+	"../include/Lexico.h"
+	<vector>
+
+1380078476 source:c:\users\lex\desktop\compiladores\practica4\src\tablasimbolos.cpp
+	"../include/TablaSimbolos.h"
+
+1382842420 source:c:\users\lex\desktop\compiladores\practica4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/ArchivoIO.h"
+
+1382841750 c:\users\lex\desktop\compiladores\practica4\include\archivoio.h
+	<fstream>
+	<sstream>
+
+1382882946 source:/mnt/windows/Users/Lex/Desktop/Compiladores/Practica4/src/Lexico.cpp
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+
+1382582101 /mnt/windows/Users/Lex/Desktop/Compiladores/Practica4/include/Lexico.h
+	<string>
+	<iostream>
+	<cctype>
+	<string>
+	<iostream>
+	<cctype>
+
+1382883583 /mnt/windows/Users/Lex/Desktop/Compiladores/Practica4/include/Funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+	"TablaSimbolos.h"
+	<cstring>
+	<fstream>
+	<sstream>
+	"TablaSimbolos.h"
+
+1380078362 /mnt/windows/Users/Lex/Desktop/Compiladores/Practica4/include/TablaSimbolos.h
+	<string>
+	<iostream>
+	<string>
+	<iostream>
+
+1380078476 source:/mnt/windows/Users/Lex/Desktop/Compiladores/Practica4/src/TablaSimbolos.cpp
+	"../include/TablaSimbolos.h"
+	"../include/TablaSimbolos.h"
+
+1382880129 source:/mnt/windows/Users/Lex/Desktop/Compiladores/Practica4/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/ArchivoIO.h"
+
+1382842234 /mnt/windows/Users/Lex/Desktop/Compiladores/Practica4/include/Sintactico.h
+	<iostream>
+	<string>
+	"../include/Lexico.h"
+	<vector>
+
+1382841750 /mnt/windows/Users/Lex/Desktop/Compiladores/Practica4/include/ArchivoIO.h
+	<fstream>
+	<sstream>
+
+1382879776 source:/mnt/windows/Users/Lex/Desktop/Compiladores/Practica4/src/Sintactico.cpp
+	"../include/Sintactico.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<sstream>
+
+1385759747 source:c:\users\lex\desktop\compiladores\rss\src\sintactico.cpp
+	"../include/Sintactico.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<sstream>
+
+1385758787 c:\users\lex\desktop\compiladores\rss\include\sintactico.h
+	<iostream>
+	<string>
+	"../include/Lexico.h"
+	<vector>
+
+1385700697 c:\users\lex\desktop\compiladores\rss\include\lexico.h
+	<string>
+	<iostream>
+	<cctype>
+
+1385759851 source:c:\users\lex\desktop\compiladores\rss\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/ArchivoIO.h"
+
+1385760021 c:\users\lex\desktop\compiladores\rss\include\archivoio.h
+	<fstream>
+	<sstream>
+
+1385701291 source:c:\users\lex\desktop\compiladores\rss\src\lexico.cpp
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+	<algorithm>
+	<cctype>
+
+1385692151 c:\users\lex\desktop\compiladores\rss\include\funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+
+1385741326 source:/mnt/windows/Users/Lex/Desktop/Compiladores/Rss/src/Lexico.cpp
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+	<algorithm>
+	<cctype>
+
+1385700697 /mnt/windows/Users/Lex/Desktop/Compiladores/Rss/include/Lexico.h
+	<string>
+	<iostream>
+	<cctype>
+
+1385742337 /mnt/windows/Users/Lex/Desktop/Compiladores/Rss/include/Funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+
+1385741215 source:/mnt/windows/Users/Lex/Desktop/Compiladores/Rss/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/ArchivoIO.h"
+
+1385739842 /mnt/windows/Users/Lex/Desktop/Compiladores/Rss/include/ArchivoIO.h
+	<fstream>
+	<sstream>
+	<string>
+
+1385758787 /mnt/windows/Users/Lex/Desktop/Compiladores/Rss/include/Sintactico.h
+	<iostream>
+	<string>
+	"../include/Lexico.h"
+	<vector>
+
+1385742744 source:/mnt/windows/Users/Lex/Desktop/Compiladores/Rss/src/Sintactico.cpp
+	"../include/Sintactico.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<fstream>
+	<sstream>
+
