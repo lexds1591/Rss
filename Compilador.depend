@@ -430,3 +430,50 @@
 	<fstream>
 	<sstream>
 
+1385743211 source:/home/lex/Desktop/Rss/src/Lexico.cpp
+	"../include/Lexico.h"
+	"../include/Funciones.h"
+	<algorithm>
+	<cctype>
+
+1385743211 /home/lex/Desktop/Rss/include/Lexico.h
+	<string>
+	<iostream>
+	<cctype>
+
+1385755085 /home/lex/Desktop/Rss/include/Funciones.h
+	<cstring>
+	<fstream>
+	<sstream>
+
+1385754408 source:/home/lex/Desktop/Rss/src/Sintactico.cpp
+	"../include/Sintactico.h"
+	<string>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<sstream>
+
+1385753020 /home/lex/Desktop/Rss/include/Sintactico.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"../include/Lexico.h"
+	<vector>
+
+1385754250 source:/home/lex/Desktop/Rss/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+	"include/Lexico.h"
+	"include/Sintactico.h"
+	"include/ArchivoIO.h"
+
+1385755058 /home/lex/Desktop/Rss/include/ArchivoIO.h
+	<fstream>
+	<sstream>
+	<string>
+

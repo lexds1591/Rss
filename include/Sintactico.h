@@ -3,6 +3,8 @@
 
 #include <iostream>
 #include <string>
+#include <fstream>
+#include <sstream>
 #include "../include/Lexico.h"
 #include <vector>
 
@@ -22,11 +24,12 @@ using namespace std;
 class Sintactico
 {
     public:
-        Sintactico( void );
+        Sintactico( char *rutaSalida );
         virtual ~Sintactico( void );
-        int analizar( Lexico lexico);
+        int analizar( Lexico lexico );
     protected:
     private:
+            ofstream salida_;
             int R( Lexico *lexico );
             int C( Lexico *lexico );
             int C2( Lexico *lexico );

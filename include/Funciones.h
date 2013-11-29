@@ -5,6 +5,8 @@
 #include <fstream>
 #include <sstream>
 
+#define TAM         10000
+
 using namespace std;
 
 string producirPalabra( string cadena , unsigned int *posicion );
@@ -14,7 +16,7 @@ bool esEtiqueta( char caracter );
 
 string producirPalabra( string cadena , unsigned int *posicion )
 {
-    char palabra[10000];
+    char palabra[TAM];
     int cont = 0;
 
     while( esEspacio( cadena[*posicion] ) )

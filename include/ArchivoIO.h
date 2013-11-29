@@ -6,7 +6,7 @@
 #include <string>
 
 #define FIN_ARCHIVO 0
-#define TAM         1000
+#define TAM         10000
 
 using namespace std;
 
